@@ -9,6 +9,8 @@
     'description': """fix issues with print arabic receipt by network """,
     'version' : '14.0',
     'depends' : ['point_of_sale'],
-    'data'    : [ ],
+    'data'    : [
+        'views/assets.xml',
+    ],
     'installable'  : True,
 }
