@@ -1,13 +1,13 @@
 # -*- coding: utf-8 -*-
 {
-    'name'    : "pos network arabic receipt",
+    'name'    : "POS Network Printer Arabic Receipt",
     'author'  : 'Omer Ahmed',
     'category': 'POS',
-    'summary' : """fix issues with print arabic receipt by network """,
+    'summary' : """ This module fix arabic receipt issue with network printer""",
     'license' : 'OPL-1',
     'website' : 'http://github.com/omerahmed1994',
-    'description': """fix issues with print arabic receipt by network """,
-    'version' : '14.0',
+    'description': """ This module fix arabic receipt issue with network printer""",
+    'version' : '14.0.1.0.0',
     'depends' : ['point_of_sale'],
     'data'    : [
         'views/assets.xml',
