@@ -12,5 +12,6 @@
     'data'    : [
         'views/assets.xml',
     ],
+    'images': ['static/description/banner.jpg'],
     'installable'  : True,
 }
