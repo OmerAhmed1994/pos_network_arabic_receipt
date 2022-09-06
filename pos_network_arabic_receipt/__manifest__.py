@@ -10,8 +10,12 @@
     'version' : '14.0.1.0.0',
     'depends' : ['point_of_sale'],
     'data'    : [
-        'views/assets.xml',
     ],
+    "assets": {
+        "point_of_sale.assets": [
+            "/pos_network_arabic_receipt/static/src/js/html2canvas.js",
+        ],
+    },
     'images': ['static/description/banner.jpg'],
     'installable'  : True,
 }
