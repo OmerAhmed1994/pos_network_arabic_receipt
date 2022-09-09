@@ -1,0 +1,2 @@
+# pos_network_arabic_receipt
+pos_network_arabic_receipt
